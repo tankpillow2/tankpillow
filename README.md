@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for people to help with **ParrotPanel**
 
-- 💬 Ask me about **ParrotPanel to Java Development**
+- 💬 Ask me about **ParrotPanel or Java Development**
 
 - 📫 Contact me on Discord **tankpillow#2049**
 
