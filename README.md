@@ -7,7 +7,7 @@
 
 - 🎓 I’m am currently attending college for **Computer Science**
 
-- 🤝 I’m looking for help with **ParrotPanel**
+- 🤝 I’m looking for people to help with **ParrotPanel**
 
 - 💬 Ask me about **ParrotPanel to Java Development**
 
